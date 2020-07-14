@@ -1,0 +1,21 @@
+c:\users\student\documents\visual studio 2015\Projects\prjKiemTraThucHanh\KiemTraThucHanh\bin\Debug\KiemTraThucHanh.exe.config
+c:\users\student\documents\visual studio 2015\Projects\prjKiemTraThucHanh\KiemTraThucHanh\bin\Debug\KiemTraThucHanh.exe
+c:\users\student\documents\visual studio 2015\Projects\prjKiemTraThucHanh\KiemTraThucHanh\bin\Debug\KiemTraThucHanh.pdb
+c:\users\student\documents\visual studio 2015\Projects\prjKiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\prjKiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.frmQLNV.resources
+c:\users\student\documents\visual studio 2015\Projects\prjKiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.Properties.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\prjKiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\prjKiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.exe
+c:\users\student\documents\visual studio 2015\Projects\prjKiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.pdb
+T:\16052141_TruongThanhLoi_DHKHMT12A_H71M08\prjKiemTraThucHanh\KiemTraThucHanh\bin\Debug\KiemTraThucHanh.exe.config
+T:\16052141_TruongThanhLoi_DHKHMT12A_H71M08\prjKiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.exe
+T:\16052141_TruongThanhLoi_DHKHMT12A_H71M08\prjKiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.pdb
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\16052141_TruongThanhLoi_DHKHMT12A_H71M08\prjKiemTraThucHanh\KiemTraThucHanh\bin\Debug\KiemTraThucHanh.exe.config
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\16052141_TruongThanhLoi_DHKHMT12A_H71M08\prjKiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.exe
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\16052141_TruongThanhLoi_DHKHMT12A_H71M08\prjKiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.pdb
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\16052141_TruongThanhLoi_DHKHMT12A_H71M08\prjKiemTraThucHanh\KiemTraThucHanh\bin\Debug\KiemTraThucHanh.exe
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\16052141_TruongThanhLoi_DHKHMT12A_H71M08\prjKiemTraThucHanh\KiemTraThucHanh\bin\Debug\KiemTraThucHanh.pdb
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\16052141_TruongThanhLoi_DHKHMT12A_H71M08\prjKiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.csprojResolveAssemblyReference.cache
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\16052141_TruongThanhLoi_DHKHMT12A_H71M08\prjKiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.frmQLNV.resources
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\16052141_TruongThanhLoi_DHKHMT12A_H71M08\prjKiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.Properties.Resources.resources
+G:\All\DATA\HKII-Năm 4\Lập trình hướng sự kiện .NET\16052141_TruongThanhLoi_DHKHMT12A_H71M08\prjKiemTraThucHanh\KiemTraThucHanh\obj\Debug\KiemTraThucHanh.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLNV" Class="QLNVDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-PPFD7V0;Initial Catalog=QLNV;Integrated Security=True" SettingsObjectName="KiemTraThucHanh.Properties.Settings" SettingsPropertyName="QLNVConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.NhanVien" Member="NhanViens">
+    <Type Name="NhanVien">
+      <Column Name="maNhanVien" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tenNhanVien" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="namSinh" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="chucVu" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="luong" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="maPhong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="PhongBan_NhanVien" Member="PhongBan" ThisKey="maPhong" OtherKey="maPhong" Type="PhongBan" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PhongBan" Member="PhongBans">
+    <Type Name="PhongBan">
+      <Column Name="maPhong" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tenPhong" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Association Name="PhongBan_NhanVien" Member="NhanViens" ThisKey="maPhong" OtherKey="maPhong" Type="NhanVien" />
+    </Type>
+  </Table>
+</Database>
